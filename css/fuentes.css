@@ -1,0 +1,91 @@
+@font-face {
+		font-family:"idiot";
+		src:url("../fonts/idiot.ttf");
+	
+	}
+.idiot{
+		font-family:idiot;
+		color:#FFFFFF;
+		
+	}
+	
+@font-face {
+		font-family:"Capture";
+		src:url("../fonts/Capture it.ttf");
+	
+	}
+.capture{
+		font-family:Capture;
+		color:#000000;
+		
+	}
+	
+@font-face {
+		font-family:"Jellyka";
+		src:url("../fonts/Jellyka_Estrya_Handwriting.ttf");
+	
+	}
+.jellyka{
+		font-family:Jellyka;
+		color:#FFFFFF;
+		font-size:80px;
+		
+	}
+
+@font-face {
+		font-family:"Rentukka";
+		src:url("../fonts/Rentukka-Regular.otf");
+	
+	}
+.Rentukka{
+		font-family:Rentukka;
+		color:#000000;
+		
+		
+	}
+
+@font-face {
+		font-family:"Raleway";
+		src:url("../fonts/Raleway-Regular.ttf");
+	
+	}
+.Raleway{
+		font-family:Raleway;
+		color:#000000;
+		font-size:20px;
+		
+		
+	}
+
+@font-face {
+		font-family:"GenBasR";
+		src:url("../fonts/GenBasR.ttf");
+	
+	}
+.GenBasR{
+		font-family:GenBasR;
+		color:#000000;
+		
+		
+	}
+
+	@font-face {
+		font-family:"Raleway-Thin";
+		src:url("../fonts/Raleway-Thin.ttf");
+	
+	}
+.Raleway-Thin{
+		font-family:Raleway-Thin;
+		color:#000000;
+		font-size: 20px;
+		
+		
+	}
+
+
+
+
+
+
+
+
